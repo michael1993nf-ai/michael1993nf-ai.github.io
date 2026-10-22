@@ -1,3 +1,1 @@
-# app-ads.txt for apps by Dajun Wu (Spot Fantasy, Element Vault)
-# Placeholder: the Google AdMob line is added once the AdMob account is approved, in the form
-# google.com, pub-<publisher id>, DIRECT, f08c47fec0942fa0
+google.com, pub-6288564478160245, DIRECT, f08c47fec0942fa0
